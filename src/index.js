@@ -28,7 +28,7 @@ ReactDOM.render(
           <Details />
         </Route>
         <Route>
-          <NotFound />
+          <NotFound path="*" />
         </Route>
       </Switch>
     </Router>
