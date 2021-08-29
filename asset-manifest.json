@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-chucknorris-api/static/css/main.b515e716.chunk.css",
+    "main.js": "/react-chucknorris-api/static/js/main.b159c8aa.chunk.js",
+    "main.js.map": "/react-chucknorris-api/static/js/main.b159c8aa.chunk.js.map",
+    "runtime-main.js": "/react-chucknorris-api/static/js/runtime-main.7af66772.js",
+    "runtime-main.js.map": "/react-chucknorris-api/static/js/runtime-main.7af66772.js.map",
+    "static/js/2.e8f22ea8.chunk.js": "/react-chucknorris-api/static/js/2.e8f22ea8.chunk.js",
+    "static/js/2.e8f22ea8.chunk.js.map": "/react-chucknorris-api/static/js/2.e8f22ea8.chunk.js.map",
+    "index.html": "/react-chucknorris-api/index.html",
+    "precache-manifest.d0aa8ef0494a979aff2f30341ab54645.js": "/react-chucknorris-api/precache-manifest.d0aa8ef0494a979aff2f30341ab54645.js",
+    "service-worker.js": "/react-chucknorris-api/service-worker.js",
+    "static/css/main.b515e716.chunk.css.map": "/react-chucknorris-api/static/css/main.b515e716.chunk.css.map",
+    "static/js/2.e8f22ea8.chunk.js.LICENSE.txt": "/react-chucknorris-api/static/js/2.e8f22ea8.chunk.js.LICENSE.txt",
+    "static/media/chuck.jpg": "/react-chucknorris-api/static/media/chuck.39b94c0e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7af66772.js",
+    "static/js/2.e8f22ea8.chunk.js",
+    "static/css/main.b515e716.chunk.css",
+    "static/js/main.b159c8aa.chunk.js"
+  ]
+}
