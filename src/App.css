@@ -1,0 +1,63 @@
+body {
+  background-color: rgba(0, 0, 0, 0.8);
+  text-align: center;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+.title {
+  color: yellow;
+  text-transform: uppercase;
+  font-size: 50px;
+  text-shadow: 5px 5px rgb(0, 0, 0);
+}
+
+.card {
+  margin-top: 70px;
+}
+
+.btn {
+  margin-top: 20px;
+}
+
+h1,
+h4 {
+  color: #fff;
+}
+
+p {
+  color: #fff;
+}
+
+.subTitle {
+  font-size: 40px;
+  margin: 50px;
+  color: #fff;
+  text-transform: uppercase;
+  text-shadow: 5px 5px rgb(0, 0, 0);
+  text-align: center;
+  align-items: center;
+}
+
+.fact-item {
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  padding-top: 40px;
+}
+
+.center {
+  font-size: 2rem;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
