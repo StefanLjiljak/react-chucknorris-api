@@ -2,6 +2,10 @@
 
 https://stefanljiljak.github.io/react-chucknorris-api/
 
+## UML diagram
+
+![alt text](https://photos.app.goo.gl/wnrprCZtASA7zvxf7)
+
 ## Available Scripts
 
 In the project directory, you can run:
